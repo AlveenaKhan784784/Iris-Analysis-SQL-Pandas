@@ -1,4 +1,4 @@
-# Iris-Analysis-SQL-Pandas
+
 # Iris Dataset Analysis: SQL + Pandas
 
 ## Project Overview
@@ -27,7 +27,7 @@ species (Setosa, Versicolor, Virginica)
 
 ## Workflow
 
-1. SQL
+1. *SQL*
 
 - Load the dataset into MySQL
 
@@ -37,7 +37,7 @@ species (Setosa, Versicolor, Virginica)
 
 - Extract insights through queries
 
-2. Pandas & Visualization
+2. *Pandas & Visualization*
 
 - Connect MySQL with Pandas for further analysis
 
